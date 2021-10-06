@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-// import "./FeedbackOptions.css";
 import s from "./FeedbackOptions.module.css";
 import PropTypes from "prop-types";
 
